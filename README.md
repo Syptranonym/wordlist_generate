@@ -6,21 +6,21 @@ Alat sederhana yang bisa membantu anda dalam menyusun wordlist.
 # Author 
  Sy~ptr25'
  
-# installation
+# Installation
 pastikan anda mengclone script dalam wilayah storage
 agar memudahkan anda dalam mencakup segala ruang.
 
-# note
+# Note
 tools ini tidak menyimpan hasil racikan anda.pastikan anda mengcopy hasil tools & paste difile wordlist anda.
 
-# usage
+# Usage
 * cd /sdcard (termux)
 * sudo su    (linux)
 * git clone https://github.com/Syptranonym/wordlist_generate.git 
 * cd wordlist_generate
 * python2 wordlist.py
 
-# tutorial
+# Tutorial
 * buka terminal anda.
 * berikan akses penyimpanan anda dengan menulis perintah diatas "cd /sdcard" 
 * clone dengan menulis perintah diatas dalam penyimpanan anda "git clone "
@@ -29,3 +29,8 @@ tools ini tidak menyimpan hasil racikan anda.pastikan anda mengcopy hasil tools 
 * isi beberapa list atau kata-kata anda sebanyak mungkin didalam file word.txt kemudian simpan pastikan and anda menyimpan word.txt bersamaan dengan folder wordlist.py / dalam folder tools wordlist_generate.
 * jalankan tools wordlist_generate diterminal anda "python2 wordlist.py"
 * pilihlah menu sesuai dengan kebutuhan anda.
+
+
+
+#
+copyright by @sy~ptr25'
