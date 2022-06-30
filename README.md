@@ -30,6 +30,8 @@ tools ini tidak menyimpan hasil racikan anda.pastikan anda mengcopy hasil tools 
 * jalankan tools wordlist_generate diterminal anda "python2 wordlist.py"
 * pilihlah menu sesuai dengan kebutuhan anda.
 
+# Tutorial video
+https://youtu.be/IOs8nl7QFhY
 
 
 #
